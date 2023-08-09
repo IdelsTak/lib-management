@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MsAccessDatasource
+comment1.params=
+comment1.target=MsAccessDatasource()
+comment2.params=
+comment2.target=MsAccessDatasource\ getInstance()
+comment3.params=
+comment3.target=java.sql.Connection\ getConnection()
+comment4.params=
+comment4.target=java.sql.Connection\ createConnection()
+comment5.params=conn
+comment5.target=void\ createTablesIfNotExist(java.sql.Connection)
+comment6.params=
+comment6.target=java.io.File\ getDatabaseFile()
+numComments=7

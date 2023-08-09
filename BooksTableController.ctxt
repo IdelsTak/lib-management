@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BooksTableController
+comment1.params=management
+comment1.target=BooksTableController(LibraryManagement)
+comment2.params=
+comment2.target=javax.swing.JPanel\ getView()
+comment3.params=
+comment3.target=void\ refreshTable()
+numComments=4

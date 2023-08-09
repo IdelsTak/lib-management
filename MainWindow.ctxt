@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MainWindow
+comment1.params=libraryName
+comment1.target=MainWindow(java.lang.String)
+comment2.params=panel
+comment2.target=void\ setPage(javax.swing.JPanel)
+numComments=3

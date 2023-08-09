@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BookIssuePanel
+comment1.params=
+comment1.target=BookIssuePanel()
+comment2.params=
+comment2.target=javax.swing.JTextField\ getBookIdTextField()
+comment3.params=
+comment3.target=javax.swing.JTextField\ getIssueToTextField()
+comment4.params=
+comment4.target=void\ initComponents()
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=LibraryManagement
+comment0.text=\n\ Write\ a\ description\ of\ class\ LibraryManagement\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LibraryManagement()
+comment10.params=
+comment10.target=java.awt.event.ActionListener\ getShowReturnBookWindowAction()
+comment11.params=
+comment11.target=java.awt.event.ActionListener\ getQuitAction()
+comment2.params=
+comment2.target=void\ showMainWindow()
+comment3.params=
+comment3.target=Library\ getLibrary()
+comment4.params=
+comment4.target=javax.swing.JFrame\ getMainView()
+comment5.params=
+comment5.target=void\ showMenu()
+comment6.params=
+comment6.target=java.awt.event.ActionListener\ getShowAddBookWindowAction()
+comment7.params=
+comment7.target=java.awt.event.ActionListener\ getShowDeleteBookWindowAction()
+comment8.params=
+comment8.target=java.awt.event.ActionListener\ getShowViewBooksWindowAction()
+comment9.params=
+comment9.target=java.awt.event.ActionListener\ getShowIssueBookWindowAction()
+numComments=12

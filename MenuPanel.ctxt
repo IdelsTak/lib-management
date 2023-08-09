@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MenuPanel
+comment1.params=libraryName
+comment1.target=MenuPanel(java.lang.String)
+comment2.params=
+comment2.target=javax.swing.JButton\ getAddBookButton()
+comment3.params=
+comment3.target=javax.swing.JButton\ getDeleteBookButton()
+comment4.params=
+comment4.target=javax.swing.JButton\ getViewBooksButton()
+comment5.params=
+comment5.target=javax.swing.JButton\ getIssueBookButton()
+comment6.params=
+comment6.target=javax.swing.JButton\ getReturnBookButton()
+comment7.params=libraryName
+comment7.target=void\ initComponents(java.lang.String)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuController
+comment1.params=mgmgt
+comment1.target=MenuController(LibraryManagement)
+comment2.params=
+comment2.target=javax.swing.JPanel\ getView()
+numComments=3

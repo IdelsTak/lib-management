@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BookWindow
+comment1.params=title\ detailsPanel
+comment1.target=BookWindow(java.lang.String,\ javax.swing.JPanel)
+comment2.params=
+comment2.target=javax.swing.JButton\ getSubmitButton()
+comment3.params=
+comment3.target=javax.swing.JButton\ getQuitButton()
+comment4.params=
+comment4.target=void\ initComponents()
+comment5.params=
+comment5.target=javax.swing.JPanel\ createTopPanel()
+comment6.params=
+comment6.target=javax.swing.JPanel\ createCenterPanel()
+comment7.params=
+comment7.target=javax.swing.JPanel\ createBottomPanel()
+comment8.params=
+comment8.target=javax.swing.JPanel\ createMainTitlePanel()
+comment9.params=
+comment9.target=javax.swing.JPanel\ createTitlePanel()
+numComments=10
